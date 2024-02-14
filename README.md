@@ -4,7 +4,7 @@
 
 2024 Ocak ayında iyzico firması tarafından düzenlenen kaggle yarışması için kendi çözümümü içerir.
 
-İlk defa bir kaggle yarışmasına katıldım kendimce denemeler yaptım. Yaptığım çalışmalara jupyter notebook dosyasında en aza indirgeyerek anlatmaya çalıştım.
+İlk defa bir kaggle yarışmasına katıldım ve kendimce denemeler yaptım. Jupyter notebook dosyasına açıklamalar ekledim.
 
 
 ## Installation
