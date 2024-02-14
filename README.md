@@ -1,5 +1,5 @@
 
-# Iyzico Datathon Xgboost Çözümü
+# Iyzico Datathon Xgboost 
 
 
 2024 Ocak ayında iyzico firması tarafından düzenlenen kaggle yarışması için kendi çözümümü içerir.
