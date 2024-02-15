@@ -1,10 +1,10 @@
 
-# Iyzico Datathon Xgboost Çözümü
+# Iyzico Datathon - Ocak 2024
 
 
 2024 Ocak ayında iyzico firması tarafından düzenlenen kaggle yarışması için kendi çözümümü içerir.
 
-İlk defa bir kaggle yarışmasına katıldım kendimce denemeler yaptım. Yaptığım çalışmalara jupyter notebook dosyasında en aza indirgeyerek anlatmaya çalıştım.
+İlk defa katıldığım kaggle yarışmasına ait çalışmam açıklamalı bir şekilde Jupyter Notebook dosyasında yer almaktadır.
 
 
 ## Installation
